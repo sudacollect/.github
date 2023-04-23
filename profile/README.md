@@ -1,8 +1,9 @@
 #suda
 
-Laravel Admin Panel
-
+Laravel Admin Panel  
 Multiple Extensions Manager
 
+
 ---
-https://suda.gtd.xyz
+https://suda.gtd.xyz  
+https://docs.gtd.xyz  
