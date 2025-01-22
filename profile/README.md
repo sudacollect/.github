@@ -5,5 +5,5 @@ Multiple Extensions Manager
 
 Visit kanban https://trello.com/b/ePBwF1HK/laravel-suda
 ---
-https://suda.gtd.xyz  
-https://docs.gtd.xyz  
+https://panel.cc
+https://docs.panel.cc
